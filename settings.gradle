@@ -1,0 +1,2 @@
+rootProject.name='TheadingAndHandler'
+include ':app'
